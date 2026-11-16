@@ -1,0 +1,6 @@
+{
+  "name": "PolyU Design Competition Subsidy Scheme",
+  "description": "Mobile prototype for The Hong Kong Polytechnic University School of Design Competition Subsidy Scheme application, endorsement, claim, and reimbursement workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
